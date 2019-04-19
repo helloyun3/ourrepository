@@ -1,0 +1,6 @@
+P:\数据库原理\hubu\hubu\bin\hubu.dll.config
+P:\数据库原理\hubu\hubu\bin\hubu.dll
+P:\数据库原理\hubu\hubu\bin\hubu.pdb
+P:\数据库原理\hubu\hubu\obj\Debug\hubu.csprojResolveAssemblyReference.cache
+P:\数据库原理\hubu\hubu\obj\Debug\hubu.dll
+P:\数据库原理\hubu\hubu\obj\Debug\hubu.pdb
